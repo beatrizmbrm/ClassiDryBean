@@ -16,3 +16,7 @@ Machine learning project to classify dry bean types using physical attributes.
 
 ##  Goal
 Compare classifiers and identify key features for bean type prediction.
+
+## Authors
+- Beatriz Rodrigues  
+- Alison Dantas
